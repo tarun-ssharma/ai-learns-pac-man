@@ -1,7 +1,7 @@
 **PAC MAN**
 
 In this project, I took the pac-man version which I had built earlier, and used NEAT evolution algorithm to teach our pac-man to consume maximum possible dots while evading ghosts!
-Certain difficulties I faced was:
+Certain difficulties I faced were:
 - determining the population size, and number of generations to run the NEAT algorithm for
 - determining what inputs to provide the NEAT neural networks
 
